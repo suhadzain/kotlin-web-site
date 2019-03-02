@@ -1,6 +1,6 @@
 ---
 layout: tutorial
-title: "Tutorials"
+title: "Tutorial"
 ---
 
 A series of complete step-by-step tutorials to walk you through how to accomplish different tasks in Kotlin, from Getting Started to writing Android applications and more.
